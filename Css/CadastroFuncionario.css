@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    
+    background: url(https://imagizer.imageshack.com/v2/1001x667q90/922/01SXQL.jpg);
+    background-size: cover;
+}
+
+.cadastro {
+    margin: 0 auto;
+    border: 1px solid red;
+    margin-top: 100px;
+    box-shadow: inset 0 0 1em gold, 0 0 1em red;
+    background: rgba(3, 3, 4, 0.7);
+    padding: 50px;
+}
+
+label {
+    color: white;
+}
+
+.lista {
+    
+    color: white;
+    width: 300px;
+    
+}
+
+
+.lista ul {
+
+    border-radius: 10px;
+    margin: 30px;
+    color: white;
+    margin-bottom: 100px;
+    
+}
+.lista ul li {
+    border-radius: 10px;
+    margin: 40px;
+    color: white;
+    
+}
+.lista ul li span {
+    color: red;
+    font-weight: 900;
+}

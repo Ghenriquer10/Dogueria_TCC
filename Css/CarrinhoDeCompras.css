@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(https://imagizer.imageshack.com/v2/1001x667q90/922/01SXQL.jpg);
+    background-size: cover;
+}
+
+.container-fluid{
+    border: 1px solid red;
+    border-radius: 25px;
+    box-shadow: inset 0 0 1em gold, 0 0 1em red;
+    background: rgba(3, 3, 4, 0.7);
+    margin-top: 100px;
+}
